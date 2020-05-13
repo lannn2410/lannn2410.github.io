@@ -9,8 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
+* [Optimal Auditing on Smart-Grid Networks](https://lannn2410.github.io/publications/icc2018/)
+  * Lan N. Nguyen, J. David Smith, Jungmin Kang, My T. Thai
+  * IEEE International Conference on Communications, IEEE ICC 2018
+  
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
