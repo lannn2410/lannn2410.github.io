@@ -40,7 +40,7 @@ Patent
 * T17679 - OptChain: Optimal Transactions Sharding for Scalable Blockchain (Pending)
 
 
-Service and leadership
+Services
 ======
 * Peer Review
   * IEEE Transactions on Power Systems. 
