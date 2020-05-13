@@ -11,49 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Hanoi University of Science and Technology, VN 2014
+  * Honor program for Talented Engineers
+* Ph.D in University of Florida, US 2021 (expected)
+  * Current GPA: 4.00/4.00
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2017 - Now: Research Assistant
+  * University of Florida, Gainesville, FL
+  * Supervisor: Professor My T. Thai, CISE Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2020 - Aug 2020: Ph.D Summer Intern
+  * Facebook, Menlo Park, CA 
+  * Team: Network Risk and Planning
+  * Supervisor: Dr. Chiun Lin Lim
 
-Publications
+* Aug 2014 - Aug 2016: Research Engineer
+  * C4I Center, Viettel R&D Institute, Vietnam
+  * Supervisor: Dr. Tran-Su Le
+
+* Aug 2012 - Jul 2014: Research Assistant
+  * Information System Department, HUST, Vietnam
+  * Supervisor: Dr. Tuyet-Trinh Vu
+
+Patent
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* T17679 - OptChain: Optimal Transactions Sharding for Scalable Blockchain (Pending)
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer Review
+  * IEEE Transactions on Power Systems. 
+  * IEEE Transaction on Networking. 
+  * IEEE Transaction on Smart Grids. 
+  * Computational Social Networks. 
+  * Social Network Analysis and Mining. 
+  * Journal of Combinatorial Optimization.
+  * INFOCOM 2018, 2019.
+  * ASONAM 2019.
+  * CSoNet 2019, 2020.
+* Teaching Assistant
+  * Approximation Algorithms (Spring 2019). 
+  * Analysis of Algorithms (Fall 2019)
+
+Awards
+======
+* UF, CISE Graduate Scholarships 2020
+*	UF Informatics Institute Graduate Student Fellowship 2019
+*	US National Science Foundation Travel Grant Award for ACM SIGMETRICS, 2019
+*	UF, CISE Graduate Scholarships 2019
+*	Honor Program in Center for Training of Excellent Students, HUST, 2009 – 2014
+*	Government-sponsored Scholarship granted annually by Ministry of Education and Training at HUST, 2009 – 2014
+
+
+
+
