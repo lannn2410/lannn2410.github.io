@@ -14,7 +14,7 @@ author_profile: true
 * [Optimal Auditing on Smart-Grid Networks](https://lannn2410.github.io/publications/icc2018/)
   * Lan N. Nguyen, J. David Smith, Jungmin Kang, My T. Thai
   * IEEE International Conference on Communications, IEEE ICC 2018
-  
-{% for post in site.publications reversed %}
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
