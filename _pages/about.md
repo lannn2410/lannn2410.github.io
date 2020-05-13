@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year PhD student in the CISE department at the University of Florida under [Dr. My Thai](http://www.cise.ufl.edu/~mythai). My research interests include Network Optimization, Graph Mining & Analysis, and Approximation Algorithms. Before that, I received my Degree of Engineer in Information Technology (honor program for talented engineers) from Hanoi University of Science & Technology, Vietnam in 2014. 
+I am a forth-year PhD student in CISE Department at University of Florida under [Dr. My Thai](http://www.cise.ufl.edu/~mythai). My research interests include Network Optimization, Graph Mining & Analysis, and Approximation Algorithms. Before that, I received my Degree of Engineer in Information Technology (Honor program for Talented Engineers) from Hanoi University of Science & Technology, Vietnam in 2014. 
 
 I am currently UF Informatics Institute Graduate Student Fellow; and have received awards like UF CISE Graduate Scholarships 2019, 2020 and US National Science Foundation Travel Grant Award for ACM SIGMETRICS 2019.
 
+News
+======
 * (05/13/2020) Welcome to my new website!
-* (05/13/2020) I am super excited that I am going to intern (remotely) at Facebook in Summer 2020. I will work for Network Risk and Planning team, under supervisor of [Dr. Lim](https://research.fb.com/people/lim-chiun-lin/). 
+* (05/13/2020) I am super excited that I am going to intern (remotely) at Facebook in Summer 2020. I will work for Network Risk and Planning team, under supervisor of [Dr. Chiun Lin Lim](https://research.fb.com/people/lim-chiun-lin/). 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
