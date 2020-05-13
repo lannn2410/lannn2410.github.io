@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lan N. nguyen"
+title                    : "Lan N. Nguyen"
 title_separator          : "-"
 name                     : &name "Lan N. Nguyen"
 description              : 
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lan N. Nguyen"
-  avatar           : "profile.png"
+  avatar           : "images/lan_nguyen.jpg"
   bio              : "Ph.D student at University of Florida"
   location         : "Gainesville, FL 32611"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y9mGVsIAAAAJ"
-  email            :
+  email            : "lan.nguyen@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
