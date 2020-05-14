@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Hanoi University of Science and Technology, VN 2014
+* B.S. in Hanoi University of Science and Technology, VN (Fall 2009 - Spring 2014)
   * Honor program for Talented Engineers
-* Ph.D in University of Florida, US 2021 (expected)
+* Ph.D in University of Florida, US (Spring 2017 - Spring 2021 expected)
   * Current GPA: 4.00/4.00
 
 Work experience
