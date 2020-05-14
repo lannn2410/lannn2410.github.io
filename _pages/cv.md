@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Hanoi University of Science and Technology, VN (Fall 2009 - Spring 2014)
-  * Honor program for Talented Engineers
-* Ph.D in University of Florida, US (Spring 2017 - Spring 2021 expected)
+* *Ph.D in University of Florida, US* (Spring 2017 - Spring 2021 expected)
   * Current GPA: 4.00/4.00
+* *B.S. in Hanoi University of Science and Technology, VN* (Fall 2009 - Spring 2014)
+  * Honor program for Talented Engineers
 
 Work experience
 ======
-* Jan 2017 - Now: Research Assistant
+* Jan 2017 - Now: *Research Assistant*
   * University of Florida, Gainesville, FL
   * Supervisor: Professor My T. Thai, CISE Department
 
-* May 2020 - Aug 2020: Ph.D Summer Intern
+* May 2020 - Aug 2020: *Ph.D Summer Intern*
   * Facebook, Menlo Park, CA 
   * Team: Network Risk and Planning
   * Supervisor: Dr. Chiun Lin Lim
 
-* Aug 2014 - Aug 2016: Research Engineer
+* Aug 2014 - Aug 2016: *Research Engineer*
   * C4I Center, Viettel R&D Institute, Vietnam
   * Supervisor: Dr. Tran-Su Le
 
-* Aug 2012 - Jul 2014: Research Assistant
+* Aug 2012 - Jul 2014: *Research Assistant*
   * Information System Department, HUST, Vietnam
   * Supervisor: Dr. Tuyet-Trinh Vu
 
@@ -42,7 +42,7 @@ Patent
 
 Services
 ======
-* Peer Review
+* *Peer Review*
   * IEEE Transactions on Power Systems. 
   * IEEE Transaction on Networking. 
   * IEEE Transaction on Smart Grids. 
@@ -52,7 +52,7 @@ Services
   * INFOCOM 2018, 2019.
   * ASONAM 2019.
   * CSoNet 2019, 2020.
-* Teaching Assistant
+* *Teaching Assistant*
   * Approximation Algorithms (Spring 2019). 
   * Analysis of Algorithms (Fall 2019)
 
