@@ -12,7 +12,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 * [Auditing on Smart-Grid With Dynamic Traffic Flows: An Algorithmic Approach](https://lannn2410.github.io/publications/tsg2020/) 
   * **Lan N. Nguyen**, J. David Smith, Jinsung Bae, Jungmin Kang, Jungtaek Seo, My T. Thai
-  * IEEE Transactions on Smart Grid
+  * IEEE Transactions on Smart Grid, 2020
 
 * [Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach](https://lannn2410.github.io/publications/sigmetrics2019/) 
   * **Lan N. Nguyen**, My T. Thai
