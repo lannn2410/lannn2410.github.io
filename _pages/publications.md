@@ -10,28 +10,32 @@ author_profile: true
 {% endif %}
 
 <!-- {% include base_path %} -->
-* [Auditing on Smart-Grid With Dynamic Traffic Flows: An Algorithmic Approach](https://lannn2410.github.io/publications/tsg2020/) 
+* [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/)
+  * **Lan N. Nguyen**, My T. Thai
+  * Thirty-seventh International Conference on Machine Learning, ICML 2020
+
+* [Auditing on Smart-Grid With Dynamic Traffic Flows: An Algorithmic Approach](https://lannn2410.github.io/publications/tsg2020/)
   * **Lan N. Nguyen**, J. David Smith, Jinsung Bae, Jungmin Kang, Jungtaek Seo, My T. Thai
   * IEEE Transactions on Smart Grid, 2020
 
-* [Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach](https://lannn2410.github.io/publications/sigmetrics2019/) 
+* [Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach](https://lannn2410.github.io/publications/sigmetrics2019/)
   * **Lan N. Nguyen**, My T. Thai
   * ACM International Conference on Measurement and Modeling of Computer Systems, ACM SIGMETRICS 2019 (extended abstract).
   * The Proceedings of the ACM on the Measurement and Analysis of Computing Systems, ACM POMACS 2019.
 
-* [Influence Maximization at Community Level: A New Challenge with Non-submodularity](https://lannn2410.github.io/publications/icdcs2019/) 
+* [Influence Maximization at Community Level: A New Challenge with Non-submodularity](https://lannn2410.github.io/publications/icdcs2019/)
   * **Lan N. Nguyen**, Kunxiao Zhou, My T. Thai
-  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019. 
+  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019.
 
-* [OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](https://lannn2410.github.io/publications/icdcs2019truc/) 
+* [OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](https://lannn2410.github.io/publications/icdcs2019truc/)
   * **Lan N. Nguyen**, Truc D. T. Nguyen, Thang N. Dinh, My T. Thai (The first 2 authors contributed equally)
-  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019. 
+  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019.
 
-* [Partitioning Attacks on Bitcoin Network: Colliding Space, Time and Logic](https://lannn2410.github.io/publications/icdcs2019saad/) 
+* [Partitioning Attacks on Bitcoin Network: Colliding Space, Time and Logic](https://lannn2410.github.io/publications/icdcs2019saad/)
   * Muhammad Saad, Victor Cook, **Lan N. Nguyen**, My T. Thai, Aziz Mohaisen
-  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019. 
+  * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019.
 
-* [Exploring Spatial, Temporal, and Logical Attacks on Bitcoin Network. (Poster)](https://arxiv.org/pdf/1902.03636.pdf) 
+* [Exploring Spatial, Temporal, and Logical Attacks on Bitcoin Network. (Poster)](https://arxiv.org/pdf/1902.03636.pdf)
   * Muhammad Saad, Victor Cook, **Lan Nguyen**, My T Thai, and Aziz Mohaisen
   * Network and Distributed System Security Symposium, (NDSS 2019), San Diago, USA
 
