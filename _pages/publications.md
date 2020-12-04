@@ -11,11 +11,11 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 * [Minimum Robust Multi-Submodular Cover for Fairness](https://lannn2410.github.io/publications/aaai2021/)
-  * **Lan N. Nguyen**, My T. Thai
+  * **Lan N. Nguyen** and My T. Thai
   * Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021
 
 * [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/)
-  * **Lan N. Nguyen**, My T. Thai
+  * **Lan N. Nguyen** and My T. Thai
   * Thirty-seventh International Conference on Machine Learning, ICML 2020
 
 * [Auditing on Smart-Grid With Dynamic Traffic Flows: An Algorithmic Approach](https://lannn2410.github.io/publications/tsg2020/)
@@ -23,7 +23,7 @@ author_profile: true
   * IEEE Transactions on Smart Grid, 2020
 
 * [Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach](https://lannn2410.github.io/publications/sigmetrics2019/)
-  * **Lan N. Nguyen**, My T. Thai
+  * **Lan N. Nguyen** and My T. Thai
   * ACM International Conference on Measurement and Modeling of Computer Systems, ACM SIGMETRICS 2019 (extended abstract).
   * The Proceedings of the ACM on the Measurement and Analysis of Computing Systems, ACM POMACS 2019.
 
@@ -32,7 +32,7 @@ author_profile: true
   * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019.
 
 * [OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](https://lannn2410.github.io/publications/icdcs2019truc/)
-  * **Lan N. Nguyen**, Truc D. T. Nguyen, Thang N. Dinh, My T. Thai (The first 2 authors contributed equally)
+  * **Lan N. Nguyen** - Truc D. T. Nguyen, Thang N. Dinh, My T. Thai (The first 2 authors contributed equally)
   * IEEE International Conference on Distributed Computing Systems, IEEE ICDCS 2019.
 
 * [Partitioning Attacks on Bitcoin Network: Colliding Space, Time and Logic](https://lannn2410.github.io/publications/icdcs2019saad/)
