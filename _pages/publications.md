@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 <!-- {% include base_path %} -->
+* [Minimum Robust Multi-Submodular Cover for Fairness](https://lannn2410.github.io/publications/aaai2021/)
+  * **Lan N. Nguyen**, My T. Thai
+  * Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021
+
 * [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/)
   * **Lan N. Nguyen**, My T. Thai
   * Thirty-seventh International Conference on Machine Learning, ICML 2020

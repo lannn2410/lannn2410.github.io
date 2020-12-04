@@ -14,7 +14,8 @@ I am currently UF Informatics Institute Graduate Student Fellow; and have receiv
 
 News
 ======
-* (06/01/2020) My paper [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/) has been accepted to ICML 2020. In this paper, we investigate a practical scenario of k-submodular maximization s.t size constraint that (1) an objective function is queried via a noisy oracle; and (2) algorithms are required to work on streaming manner. We propose two novel streaming algorithms with their theoretical performance guarantees; and demonstrate the efficiency of our algorithms in two applications in Influence Maximization and Sensor Placement. The experimental results have shown that our algorithms can return comparative results to state-of-the-art non-streaming methods while using a much fewer number of queries.
+* (12/01/2020) My paper *Minimum Robust Multi-Submodular Cover for Fairness* has been accepted to AAAI 2021. 
+* (06/01/2020) My paper [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/) has been accepted to ICML 2020. 
 * (05/13/2020) I am super excited that I am going to intern (remotely) at Facebook in Summer 2020. I will work for Network Risk and Planning team, under supervisor of [Dr. Chiun Lin Lim](https://research.fb.com/people/lim-chiun-lin/).
 * (05/13/2020) Welcome to my new website!
 
