@@ -41,7 +41,7 @@ author_profile: true
 
 * [Exploring Spatial, Temporal, and Logical Attacks on Bitcoin Network. (Poster)](https://arxiv.org/pdf/1902.03636.pdf)
   * Muhammad Saad, Victor Cook, **Lan Nguyen**, My T Thai, and Aziz Mohaisen
-  * Network and Distributed System Security Symposium, (NDSS 2019), San Diago, USA
+  * Network and Distributed System Security Symposium, (NDSS 2019), San Diego, USA
 
 * [Vulnerability Assessment of Social-Smart Grid: An Algorithmic Approach](https://lannn2410.github.io/publications/globecom2019/)
   * **Lan N. Nguyen**, J. David Smith, My T. Thai

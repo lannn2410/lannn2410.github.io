@@ -14,7 +14,7 @@ I am currently UF Informatics Institute Graduate Student Fellow; and have receiv
 
 News
 ======
-* (12/01/2020) My paper *Minimum Robust Multi-Submodular Cover for Fairness* has been accepted to AAAI 2021. 
+* (12/01/2020) My paper [Minimum Robust Multi-Submodular Cover for Fairness](https://arxiv.org/abs/2012.07936) has been accepted to AAAI 2021. 
 * (06/01/2020) My paper [Streaming k-Submodular Maximization under Noise subject to Size Constraint](https://lannn2410.github.io/publications/icml2020/) has been accepted to ICML 2020. 
 * (05/13/2020) I am super excited that I am going to intern (remotely) at Facebook in Summer 2020. I will work for Network Risk and Planning team, under supervisor of [Dr. Chiun Lin Lim](https://research.fb.com/people/lim-chiun-lin/).
 * (05/13/2020) Welcome to my new website!
