@@ -43,6 +43,7 @@ Patent
 Services
 ======
 * *Peer Review*
+  * IEEE International Conference on Blockchain and Cryptocurrency, 2021
   * IEEE Transactions on Power Systems. 
   * IEEE Transaction on Networking. 
   * IEEE Transaction on Smart Grids. 
@@ -54,7 +55,7 @@ Services
   * CSoNet 2019, 2020.
 * *Teaching Assistant*
   * Approximation Algorithms (Spring 2019). 
-  * Analysis of Algorithms (Fall 2019)
+  * Analysis of Algorithms (Fall 2019, Spring 2021)
 
 Awards
 ======
