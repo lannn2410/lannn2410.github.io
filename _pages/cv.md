@@ -37,7 +37,7 @@ Work experience
 
 Patent
 ======
-* T17679 - OptChain: Optimal Transactions Sharding for Scalable Blockchain (Pending)
+* OptChain: Optimal Transactions Sharding for Scalable Blockchain (Pending)
 
 
 Services
@@ -54,8 +54,8 @@ Services
   * ASONAM 2019.
   * CSoNet 2019, 2020.
 * *Teaching Assistant*
-  * Approximation Algorithms (Spring 2019). 
-  * Analysis of Algorithms (Fall 2019, Spring 2021)
+  * Approximation Algorithms (Spring 2019, Spring 2021). 
+  * Analysis of Algorithms (Fall 2019)
 
 Awards
 ======
